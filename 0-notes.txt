@@ -1,0 +1,10 @@
+                                -Modules-
+If you want to export a value you can use module.export = to what ever value
+
+If you have multiple values you can use module.export = to an object {value1, value2}
+
+Where ever you want to import a module you set can set it to a variable = to require('./pathfile')
+
+When you import a module it is automatically invoked
+
+Some major built in modules include the following: OS, PATH, FS(filesystem), HTTP
